@@ -111,7 +111,7 @@ export const aboutData: About = {
     {label: 'Location', text: 'Calicut, Kerala', Icon: MapIcon},
     {label: 'Age', text: '22', Icon: CalendarIcon},
     {label: 'Nationality', text: 'Indian', Icon: FlagIcon},
-    {label: 'Interests', text: 'Motorcycles, Photography, Digital illustration', Icon: SparklesIcon},
+    {label: 'Interests', text: 'GenAI, LLM, Chatbots, Photography, Digital illustration, Motorcycles,', Icon: SparklesIcon},
     {label: 'Study', text: 'National Institute of Technology, Calicut', Icon: AcademicCapIcon},
    // {label: 'Employment', text: 'Instant Domains, inc.', Icon: BuildingOffice2Icon},
   ],
